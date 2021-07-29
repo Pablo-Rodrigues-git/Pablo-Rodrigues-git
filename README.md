@@ -26,4 +26,6 @@
 
 <p align="left">
 
-
+💼 Here is what i'm working on \/
+ 
+![What I'm Working on](https://github.com/Pablo-Rodrigues-git/ListaDeContatos/blob/master/images/app.jpg "I'm working on")
