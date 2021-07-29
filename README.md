@@ -1,14 +1,11 @@
 <p align="left"> 
- 🌎 Olá, meu nome é <strong>Pablo Rodrigues</strong>, tenho 28 anos, casado e sou de São Paulo 
+ 🌎 Olá, meu nome é <strong>Pablo Rodrigues</strong>, tenho 28 anos, Casado e moro em São Paulo 
 <p align="left"><strong>Estudo Desenvolvimento Android em Kotlin, UI/UX Design</strong>.<br>
- Também sou Projetista de Distribuição aérea de energia na Enel São Paulo.    
+ Também sou Projetista de Distribuição aérea de energia na Enel São Paulo.
+ 
  <p align="left">Amo games, jogo sempre competitivamente quando tenho tempo livre.
-
+<br>My international friends say's that my english is in advanced level, I like to believe them!
 <p align="left"> 
-
-💼 Ferramentas: **<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>,<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>, <img height="30" src="https://www.freeiconspng.com/uploads/git-github-hub-icon-25.png" width="50" alt="Git, github, hub icon" />
-
-
 
 [![Pablo-Rodrigues-git](https://github-readme-stats.vercel.app/api?username=Pablo-Rodrigues-git&theme=tokyonight)
 
@@ -28,6 +25,8 @@
 
 
 <p align="left">
+ 
+ 💼 Ferramentas:<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>,<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 💼 Here is what i'm working on \/
  
