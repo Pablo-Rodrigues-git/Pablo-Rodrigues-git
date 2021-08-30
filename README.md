@@ -28,6 +28,6 @@
 
 <p align="left">
  
-:star_struck: What I'm working on
+:star_struck: What I'm working on ⤵️
  
 <img src="https://github.com/Pablo-Rodrigues-git/Push_Notification/blob/master/images/appnotification.gif" width="400" height="790" />
