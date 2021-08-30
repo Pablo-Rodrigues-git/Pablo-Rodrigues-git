@@ -28,8 +28,6 @@
 
 <p align="left">
  
- 💼 Ferramentas:<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>,<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-💼Down here is what i'm working on
+:star_struck: What I'm working on
  
 <img src="https://github.com/Pablo-Rodrigues-git/Push_Notification/blob/master/images/appnotification.gif" width="400" height="790" />
