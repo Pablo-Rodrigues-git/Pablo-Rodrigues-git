@@ -1,7 +1,7 @@
 <p align="left"> 
  🌎 Olá, meu nome é <strong>Pablo Rodrigues</strong>, tenho 28 anos, Casado e moro em São Paulo 
 <p align="left"><strong>Estudo Desenvolvimento Android em Kotlin, UI/UX Design</strong>.<br>
- Também sou Projetista de Distribuição aérea de energia na Enel São Paulo.
+
  
  <p align="left">Amo games, jogo sempre competitivamente quando tenho tempo livre.
 <br>My international friends say's that my english is in advanced level, I like to believe them!
