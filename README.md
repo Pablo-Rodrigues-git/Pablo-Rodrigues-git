@@ -1,5 +1,5 @@
 <p align="left"> 
- 🌎 Olá, meu nome é <strong>Pablo Rodrigues</strong>, tenho 28 anos, sou casado e moro em São Paulo 
+ 🌎 Olá, meu nome é <strong>Pablo Rodrigues</strong>, tenho 28 anos, sou casado e moro em São Paulo,
 <p align="left"><strong>Atuo com Desenvolvimento Android nativo em Kotlin</strong>.<br>
 
 
