@@ -24,6 +24,6 @@
 
 <p align="left">
  
-:star_struck: What I'm working on ⤵️
+:star_struck: What I'm learning now ⤵️
  
-<img src="https://github.com/Pablo-Rodrigues-git/Movies_API/blob/master/images/Movie_API.gif" width="400" height="790" />
+<img src="https://github.com/Pablo-Rodrigues-git/NavigationComponent/blob/master/images/app.gif" width="200" height="380" />
