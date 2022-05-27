@@ -24,6 +24,3 @@
 
 <p align="left">
  
-:star_struck: What I'm learning now ⤵️
- 
-<img src="https://github.com/Pablo-Rodrigues-git/NavigationComponent/blob/master/images/app.gif" width="200" height="380" />
