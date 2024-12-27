@@ -41,7 +41,7 @@ Role: Android Developer
 <p>
 My Company to build app's
  <p>
-Role: Founder and Engineer Coordinator
+Role: Founder and Android Lead
   </p>
 </p>
 
