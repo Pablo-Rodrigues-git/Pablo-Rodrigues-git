@@ -29,6 +29,15 @@ Role: Android Developer
   </p>
 </p>
 
+[Casa-do-codigo](https://www.casadocodigo.com.br) 
+<p>
+Technical books marketplace
+ <p>
+Role: Android content Oficial Revisor of book Android nativo with Kotlin and MVVM
+ </p>
+https://www.casadocodigo.com.br/products/livro-android-nativo
+</p>
+
 [Revolve Clothing](https://www.linkedin.com/company/ab-inbev/](https://www.linkedin.com/company/revolve-/))
 <p>
 Global E-Commerce App
