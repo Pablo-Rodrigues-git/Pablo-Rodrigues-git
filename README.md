@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=10&color=42F746&center=true&random=true&width=435&height=60&lines=Android+%7C+Kotlin;Jetpack+Compose;Firebase;MVI+%7C+MVVM;KOIN+%7C+HILT;C2+%7C+ENGLISH" alt="Typing SVG" /></a></p>
 
 > [!NOTE]
-> almost 4 Years experience, C2 English level, experience working for BR, US and EU Companies
+> almost 4 Years experience, C1 English level, experience working for BR, US and EU Companies
 ## 🛠 &nbsp;Tech Stack
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
