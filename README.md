@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=10&color=42F746&center=true&random=true&width=435&height=60&lines=Android+%7C+Kotlin;Jetpack+Compose;Firebase;MVI+%7C+MVVM;KOIN+%7C+HILT;C2+%7C+ENGLISH" alt="Typing SVG" /></a></p>
 
 > [!NOTE]
-> almost 4 Years experience, C1 English level, experience working for BR, US and EU Companies
+> With 5 Years experience, C1/C2 English level, experience working for BR, US and EU Companies
 ## 🛠 &nbsp;Tech Stack
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
@@ -19,6 +19,15 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![ShellScrip](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+## ✔️ &nbsp; Experience
+[GFT-Tecnologies](https://www.linkedin.com/company/gft-technologies/posts/?feedView=all) 
+<p>
+Working inside CSF Bank
+ <p>
+Role: Android Developer
+  </p>
+</p>
 
 ## ✔️ &nbsp; Experience
 [AB-Inbev](https://www.linkedin.com/company/ab-inbev/) 
