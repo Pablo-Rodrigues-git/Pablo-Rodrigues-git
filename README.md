@@ -29,7 +29,6 @@ Role: Android Developer
   </p>
 </p>
 
-## ✔️ &nbsp; Experience
 [AB-Inbev](https://www.linkedin.com/company/ab-inbev/) 
 <p>
 Global E-Commerce App, 28 Contries and counting
