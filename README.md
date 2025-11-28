@@ -21,14 +21,6 @@
 ![ShellScrip](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## ✔️ &nbsp; Experience
-[GFT-Tecnologies](https://www.linkedin.com/company/gft-technologies/posts/?feedView=all) 
-<p>
-Working inside CSF Bank
- <p>
-Role: Android Developer
-  </p>
-</p>
-
 [AB-Inbev](https://www.linkedin.com/company/ab-inbev/) 
 <p>
 Global E-Commerce App, 28 Contries and counting
@@ -83,3 +75,4 @@ Role: Tech Community Manager
 <p align="center">
 <a href="https://www.linkedin.com/in/pablo-rodrigues-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:pablo.rodriguesdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
