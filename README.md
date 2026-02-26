@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=10&color=42F746&center=true&random=true&width=435&height=60&lines=Android+%7C+Kotlin;Jetpack+Compose;Firebase;MVI+%7C+MVVM;KOIN+%7C+HILT;C2+%7C+ENGLISH" alt="Typing SVG" /></a></p>
 
 > [!NOTE]
-> 5 Years experience with Android Development, C1/C2 English level, experience working for BR, US and EU Companies
+> 6 Years experience with Android Development, C1/C2 English level, experience working for BR, US and EU Companies
 ## 🛠 &nbsp;Tech Stack
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
@@ -75,4 +75,5 @@ Role: Tech Community Manager
 <p align="center">
 <a href="https://www.linkedin.com/in/pablo-rodrigues-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:pablo.rodriguesdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 
